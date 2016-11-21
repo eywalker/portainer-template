@@ -1,0 +1,15 @@
+{
+    "title": "Runner",
+    "description": "Runner",
+    "image": "at-docker.ad.bcm.edu:5000/pipeline:env",
+    "env": [
+        {
+            "name": "RELATION",
+            "label": "Target table name"
+        },
+        {
+            "name": "RESTRICTIONS",
+            "label": "Restriction to use"
+        }
+    ]
+}
