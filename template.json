@@ -2,6 +2,7 @@
     "title": "Runner",
     "description": "Runner",
     "image": "ubuntu:16.04",
+    "logo": "https://cloudinovasi.id/assets/img/logos/nginx.png",
     "env": [
         {
             "name": "RELATION",
